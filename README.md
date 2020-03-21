@@ -13,10 +13,10 @@ With the increase in data and data science skills in the job market, this projec
  #  Research Questions to Answer
   1.	How has the demand in data Science jobs changed over time? 
   2.	Percentage of Skills in the Data Science Field
-  3.	Any specific correlation between location and DS jobs? (Use Combined Dataset)
+  3.	Any specific correlation between location and DS jobs? 
   4.	Analyze various job categories/roles pertaining to DS? (eg. Part-time/Full time; Data Engineer/Data Analyst/Data Scientist etc) 
   5.	Comparison between DS jobs listed in different job boards. 
-  6.	What is the Salary Range for DS jobs , and does it vary between locations? (Indeed)
+  6.	What is the Salary Range for DS jobs , and does it vary between locations? 
 
 # Data Set Used
   1.	Kaggle
