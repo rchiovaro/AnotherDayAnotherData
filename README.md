@@ -12,10 +12,16 @@ With the increase in data and data science skills in the job market, this projec
 
  #  Research Questions to Answer
   1.	How has the demand in data Science jobs changed over time? 
+    ![DS_CHANGE_TIME](Deep_Dive_Code/Output_Images/'Number of Jobs Posted in 2019.png')
+    
   2.	Percentage of Skills in the Data Science Field
+  
   3.	Any specific correlation between location and DS jobs? 
+  
   4.	Analyze various job categories/roles pertaining to DS? (eg. Part-time/Full time; Data Engineer/Data Analyst/Data Scientist etc) 
+  
   5.	Comparison between DS jobs listed in different job boards. 
+  
   6.	What is the Salary Range for DS jobs , and does it vary between locations? 
 
 # Data Set Used
