@@ -13,7 +13,7 @@ With the increase in data and data science skills in the job market, this projec
  #  Research Questions to Answer
   1.	How has the demand in data Science jobs changed over time? 
   
-    ![DS_CHANGE_TIME](Deep_Dive_Code/Output_Images/Number of Jobs Posted in 2019.png)
+    ![DS_CHANGE_TIME](https://github.com/srobalino/AnotherDayAnotherData/blob/master/Deep_Dive_Code/Output_Images/Number%20of%20Jobs%20Posted%20in%202019.png)
     
   2.	Percentage of Skills in the Data Science Field
   
